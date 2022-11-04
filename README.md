@@ -1,2 +1,2 @@
 # lab4
-Repozytorium na laboratoritum 
+Repozytorium na laboratorium
